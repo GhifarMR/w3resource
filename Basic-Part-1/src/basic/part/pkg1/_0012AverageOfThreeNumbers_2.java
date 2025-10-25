@@ -12,19 +12,18 @@ import java.util.Scanner;
  */
 public class _0012AverageOfThreeNumbers_2 {
     public static void main(String args[]) {
-        double num = 0;
+        int num = 0;
         int x = 1;
         
         Scanner scanner = new Scanner(System.in);
         
-        System.out.print("Enter the number of values (n) : ");
+        System.out.print("Input values of number (n) : ");
         int n = scanner.nextInt();
         
         while(x <= n) {
             System.out.print("Input number " + x + " : ");
             num += scanner.nextInt();
-            System.out.println(num); //testing +
-            x ++;
+            x++;
         }
         
         double average = num / n;
