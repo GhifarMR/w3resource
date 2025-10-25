@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author 62852
  */
-public class _12AverageOfThreeNumbers {
+public class _0012AverageOfThreeNumbers {
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
         

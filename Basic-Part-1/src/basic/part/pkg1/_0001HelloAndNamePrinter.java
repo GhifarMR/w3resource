@@ -8,7 +8,7 @@ package basic.part.pkg1;
  *
  * @author 62852
  */
-public class _1HelloAndNamePrinter {
+public class _0001HelloAndNamePrinter {
     public static void main(String args[]) {
         System.out.println("Hello");
         System.out.println("Ghifar");

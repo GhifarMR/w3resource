@@ -8,9 +8,9 @@ package basic.part.pkg1;
  *
  * @author 62852
  */
-public class _2SumOfTwoNumbers {
+public class _0003DivisionOfTwoNumbers {
     public static void main(String args[]) {
-        int sum = 74 + 36;
-        System.out.println(sum);
+        int division = 50 / 3;
+        System.out.println(division);
     }
 }

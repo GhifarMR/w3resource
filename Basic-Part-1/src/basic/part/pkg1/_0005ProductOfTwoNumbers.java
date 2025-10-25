@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author 62852
  */
-public class _6BasicArithmeticOperations {
+public class _0005ProductOfTwoNumbers {
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
         
@@ -19,17 +19,9 @@ public class _6BasicArithmeticOperations {
         
         System.out.print("Input second number : ");
         int num2 = scanner.nextInt();
+
+        int result = num1 * num2;
         
-        int addition = num1 + num2;
-        int substraction = num1 - num2;
-        int multiplication = num1 * num2;
-        int division = num1 / num2;
-        int modulus = num1 % num2;
-        
-        System.out.println(num1 + " + " + num2 + " = " + addition);
-        System.out.println(num1 + " - " + num2 + " = " + substraction);
-        System.out.println(num1 + " * " + num2 + " = " + multiplication);
-        System.out.println(num1 + " / " + num2 + " = " + division);
-        System.out.println(num1 + " % " + num2 + " = " + modulus);
+        System.out.println("Result " + num1 + " * " + num2 + " = " + result);
     }
 }

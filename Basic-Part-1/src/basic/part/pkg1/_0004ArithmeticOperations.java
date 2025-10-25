@@ -8,7 +8,7 @@ package basic.part.pkg1;
  *
  * @author 62852
  */
-public class _4ArithmeticOperations {
+public class _0004ArithmeticOperations {
     public static void main(String args[]) {
         int a = -5 + 8 * 6;
         int b = (55 + 9) % 9;

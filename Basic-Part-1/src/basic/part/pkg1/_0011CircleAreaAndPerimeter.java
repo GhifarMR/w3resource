@@ -8,7 +8,7 @@ package basic.part.pkg1;
  *
  * @author 62852
  */
-public class _11CircleAreaAndPerimeter {
+public class _0011CircleAreaAndPerimeter {
     private static final double radius = 7.5;
     
     public static void main(String args[]) {

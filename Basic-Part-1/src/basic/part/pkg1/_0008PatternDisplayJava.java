@@ -8,9 +8,11 @@ package basic.part.pkg1;
  *
  * @author 62852
  */
-public class _10FormulaComputation {
+public class _0008PatternDisplayJava {
     public static void main(String args[]) {
-        double result = 4.0 * (1 - (1.0 / 3) + (1.0 / 5) - (1.0 / 7) + (1.0 / 9) - (1.0 / 11));
-        System.out.println(result);
+        System.out.println("   J    a   V     V   a");
+        System.out.println("   J   a a   V   V   a a");
+        System.out.println("J  J  aaaaa   V V   aaaaa ");
+        System.out.println(" JJ  a     a   V   a     a");
     }
 }

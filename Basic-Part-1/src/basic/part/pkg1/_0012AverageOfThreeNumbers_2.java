@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author 62852
  */
-public class _12AverageOfThreeNumbers_2 {
+public class _0012AverageOfThreeNumbers_2 {
     public static void main(String args[]) {
         double num = 0;
         int x = 1;

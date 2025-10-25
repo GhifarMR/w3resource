@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author 62852
  */
-public class _7MultiplicationTable {
+public class _0007MultiplicationTable {
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
         

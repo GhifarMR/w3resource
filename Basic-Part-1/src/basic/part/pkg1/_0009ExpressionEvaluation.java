@@ -8,9 +8,8 @@ package basic.part.pkg1;
  *
  * @author 62852
  */
-public class _3DivisionOfTwoNumbers {
+public class _0009ExpressionEvaluation {
     public static void main(String args[]) {
-        int division = 50 / 3;
-        System.out.println(division);
+        System.out.println((25.5 * 3.5 - 3.5 * 3.5) / (40.5 - 4.5));
     }
 }
